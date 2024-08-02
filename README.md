@@ -1,1 +1,1 @@
-# groq_gemma_rag
+# Groq-Gemma-RAG
