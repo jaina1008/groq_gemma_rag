@@ -34,4 +34,37 @@ prompt= ChatPromptTemplate.from_template(
 )
 
 def vector_embedding():
-    
+
+    if "vectores" not in st.session_state:
+        st.session_state.embeddings= GoogleGenerativeAIEmbeddings(model= "models/embeddings-001")
+        # Data Ingestion
+        st.session_state.loader= PyPDFDirectoryLoader("./data")
+        # Loads all documents
+        st.session_state.docs= st.session_state.loader.load()
+        # Splits loaded documents into chunks
+        st.session_state.splitter= RecursiveCharacterTextSplitter(chunk_size= 1000, chunk_overlap= 200)
+        st.session_state.documents= st.session_state.text_splitter.split_documents(st.session_state.docs)
+        st.session_state.vectors= FIASS.from_documents(st.session_state.final_documents, st.session_state.embeddings)
+
+
+prompt1 = st.text_input("Whst do you want to as from the documents ?")
+
+if st.button("Create Vector Store"):
+    vector_embedding()
+    st.write("Vector Store DB is Ready")
+
+import time
+
+if prompt1:
+    document_chain= create_stuff_documents_chain(llm, prompt)
+    retriever= st.session_state.vectors.as_retriever()
+    retrieval_chain= create_retrieval_chain(retriever, document_chain)
+
+    start= time.process_time
+    response= retrieval_chain.invoke({'input': prompt1})
+    st.write(response['answer'])
+
+    with st.expander('Document Similarity Search'):
+        for i, doc in enumerate(response['context']):
+            st.write(doc.page_content)
+            st.write("---------------------------")
