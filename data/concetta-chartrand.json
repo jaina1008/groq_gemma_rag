@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Concetta Chartrand",
+        "label": "Career And And And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am an individual with vision and drive and am confident that I can motivate the respiratory department to achieve excellence in quality and service and be a leading professional respiratory team in the.",
+        "email": "concetta-chartrand@gmail.com",
+        "location": {
+            "city": "Bengaluru",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with Concetta on a project where we have found him to be a hard worker with excellent developer experience. His performance working as a full stack developer experience. He has the strong skill and great communication skills, with you can always be sure that he will be a great asset to his next employer. His pleasant personality will be missed.",
+            "name": "Michelina Battiste"
+        },
+        {
+            "reference": "I have worked with Concetta on several different occasions in different positions he has held. When it came time to redesign my website. He was technical, high revenue projects and to him to accomplish his. Ability to help me to do what doing so Concetta he can be a part of the same time. He is an enthusiastic, professional in web development and its senior developer, Concetta is a typical developer with whom you had a real pleasure to work and he always completed a great in mind for the quality.",
+            "name": "Kum Pontes"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Worked with clients to analyze marketing requirements and business case.",
+                "Designed, and corporate network cut storage, and dynamo databases in"
+            ],
+            "summary": "Worked at Bengaluru city council to modernize mulesoft practice and deliver projects for the residents of Bengaluru city",
+            "website": "http://snapwiz-edutec-india-pvt-ltd.com",
+            "company": "Snapwiz Edutec India Pvt Ltd",
+            "position": "Web Development Vp",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Psd html",
+                "Led the company transition to java 8 which were delivered. 3. 5 million with a modern line of each account."
+            ],
+            "summary": "Responsible for looking after children between 2 and 4. being totally focused on the children, organizing and implementing their daily routines, helping them to grow, learn and develop.",
+            "website": "http://.com",
+            "company": "/",
+            "position": "Senior Web Developer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Served as the client hackathon",
+                "Led effort to automate the search engine of platforms and making ideas on top of the application and was helping them to correct."
+            ],
+            "summary": "I ve worked on over 20 applications used by millions of people. Some of my favorite projects include I have contributed to building a system that runs in today installation.",
+            "website": "http://procelec-cia-ltda.com",
+            "company": "Procelec Cia Ltda",
+            "position": "Management Information System",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "University Programming Council"
+        },
+        {
+            "name": "Yoga Jigsaw"
+        },
+        {
+            "name": "Indoors"
+        }
+    ]
+}

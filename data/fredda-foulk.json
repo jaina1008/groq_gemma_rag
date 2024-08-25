@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Fredda Foulk",
+        "label": "Aspiring Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I a web developer and designer based out of Bangalore,. I craft simple, functional interfaces and software.",
+        "email": "fredda-foulk@gmail.com",
+        "location": {
+            "city": "Burnaby",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i have worked with suryanto for 9 years on various projects. most of our collaboration has been using drupal websites, beginning with drupal 4 to drupal 5) and is an exceptional scientist. his passion for learning truly inspires me a great support field., chris has been both a fantastic manager as well as a great mentor. as his a manager he successfully lead our team in every time with a excellent problem. he is very dedicated and hard working as a developer. he is very professional confident in his professional, as well. he works very well, commited to deadlines with good job as well as a team member.",
+            "name": "Charis Covelli"
+        },
+        {
+            "reference": "Working with him was one of the pleasant cooperations and he taught me is that the best about his code software. He is integral in the company strategy and daily decision making. His previous success, exiting companies demonstrate his product management skills and business acumen., Fredda invests effort more on analysis and the more research. He evaluates the options and alternatives in the perspective of performance, longer run person, ease. He can be tagged as the smart way not the hard way",
+            "name": "Florida Dykema"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Developing infrastructure for design tests in an office (infrastructure), including as deployment",
+                "Development of web services various other products."
+            ],
+            "summary": "Responsible for development of applications for internal use.",
+            "website": "http://voat-project-made-during-college.com",
+            "company": "Voat (project, Made During College)",
+            "position": "Infrastructure Management",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Direct communication with clients",
+                "Worked on new projects. Using design, best business logic to provide support for application, us to find errors and performance."
+            ],
+            "summary": "I have worked with several companies like for companies with various companies, including:",
+            "website": "http://dolphin-technologies.com",
+            "company": "Dolphin Technologies",
+            "position": "Founder, Chief Architect",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Developed two pack apps with one. One of the application requirements that allows customers to play user from any look or on upcoming Facebook.",
+                "And technical support for international collaboration groups in India"
+            ],
+            "summary": "Working in a multinational team within an industry. Java + development for a local client company. I also contributed some of this three Linux computers where I worked with on two code ownership, where I worked on multiple backend with legacy systems.",
+            "website": "http://sprott-asset-management-lp-partners-lp.com",
+            "company": "Sprott Asset Management Lp / Partners Lp",
+            "position": "Customer Service",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Mechanical Engineering"
+        },
+        {
+            "name": "Applications"
+        },
+        {
+            "name": "Vfx"
+        }
+    ]
+}

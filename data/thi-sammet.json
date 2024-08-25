@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Thi Sammet",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a programmer, and I am also learning to be an entrepreneur. I am good at web programming (mostly baking), cloud computing, and machine learning.",
+        "email": "thi-sammet@gmail.com",
+        "location": {
+            "city": "New York City",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Aimed Thi is a really talented, dedicated and resourceful developer who I have the utmost faith in two and provide a sustainable and efficient solution to i. software development problems",
+            "name": "Shantel Tindell"
+        },
+        {
+            "reference": "I had the pleasure of working at dragontek software, llc with Thi from 2011 to 2014 and managed him for about half of that time. We worked on a few small handful of people who are for the least of his work. An overall quality driven it and highly creative and problem solving skills. Probably the best system engineer I have worked with.",
+            "name": "Stefani Carwile"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Created a support ticket intake system which allows the students' progress can use of nodes. Gas applications",
+                "Managing and optimizing SQL services"
+            ],
+            "summary": "Worked with an internal database to an eCommerce, and. Net moves",
+            "website": "http://maxim-healthcare-services.com",
+            "company": "Maxim Healthcare Services",
+            "position": "Junior Software Developer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Optimized legacy code for",
+                "Managed Etsy shop marketing, marketing, customer service, sales forecasting, discovery, and service set research."
+            ],
+            "summary": "I worked in gathering requirements, technical design, technical and support of our web development projects. Developed several relationships, projects including managing users, technical, and implement requirements for the ministry of the education by the implementation of the organization.",
+            "website": "http://dragontek-software-llc.com",
+            "company": "Dragontek Software, Llc",
+            "position": "Senior Software Engineer / Rails Architect",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Created automated tests for HP printers and mobile services",
+                "Travel experience in hardware design, configuration, and maintenance"
+            ],
+            "summary": "I have worked with many interesting projects like event, design, etc.",
+            "website": "http://pinewood-technologies.com",
+            "company": "Pinewood Technologies",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Personal Growth"
+        },
+        {
+            "name": "Adventures"
+        },
+        {
+            "name": "Social"
+        }
+    ]
+}

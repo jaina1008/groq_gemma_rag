@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Julianna Yokum",
+        "label": "Officer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "",
+        "email": "julianna-yokum@gmail.com",
+        "location": {
+            "city": "Beaverton",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with richard at, where he was a valuable member of my team api design and was a highly technical experienced individual who as a team member of his team. i was impressed by both kelly attitude that was under at getting the time to understand the key concepts new advancements and javascript and coding., references will be provided upon request, by request, edin is an absolute ace. it when we comes to software development and i would love to do it again in the future., matt is a highly effective software architect. i known matt for more than a, most recently working with him, at microsoft, his attention to detail and make a positive energy to the workplace. david is a pleasure to work with him and hardworking nature you., steve is the founder of riverview research. i worked with him on my internal tooling and he was a pleasure to deal with.",
+            "name": "Tonette London"
+        },
+        {
+            "reference": "Julianna is a truly outstanding senior technologist and I consider myself fortunate to have worked with him.",
+            "name": "Angelique Wunder"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Worked on several & project games built on big data.",
+                "Development of offers aggregator with play framework,,,"
+            ],
+            "summary": "Provided consultation to companies with a range of technological requirements",
+            "website": "http://nxcomm-pte-ltd.com",
+            "company": "Nxcomm Pte Ltd",
+            "position": "Senior Software / Ux Engineer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Designed system architecture for integrating various project data at the time.",
+                "Define hardware and software systems that run teams."
+            ],
+            "summary": "Is a major company designing and analyzing public transit networks in",
+            "website": "http://s30labs-spanish-ministry-of-defence.com",
+            "company": "S30labs@ Spanish Ministry Of Defence",
+            "position": "Engineering Team Lead, Customer Operations",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Python the entire stack (Wordpress, read and I.)",
+                "Wrote maintainable and performant javascript applications on Heroku with Drupal."
+            ],
+            "summary": "A service that provides real time charts and alerts at both home and small local businesses",
+            "website": "http://imaginuity-interactive.com",
+            "company": "Imaginuity Interactive",
+            "position": "Senior Software Developer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Vfx"
+        },
+        {
+            "name": "Software Engineering"
+        },
+        {
+            "name": "Rick And Morty"
+        }
+    ]
+}

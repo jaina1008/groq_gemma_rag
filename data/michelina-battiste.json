@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Michelina Battiste",
+        "label": "Consultant And Web Cofounder",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer with a passion for the technologies.",
+        "email": "michelina-battiste@gmail.com",
+        "location": {
+            "city": "Jakarta",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Michelina Lenhardt",
+            "name": "Stefani Carwile"
+        },
+        {
+            "reference": "i have been working with michiel on multiple projects within a team. while he showed an outstanding ability to provide elegant, yet simple solutions that focus on solving problems. he is quick study and dives passionately into complex technical topics with great results. he is a pleasure to work with and i greatly admire his skills as a part of., jace is one of the creative and most personable professional manager who knows his to work with his own initiative., i have known Michelina england for 20 years and know him to be an exceptional scientist. his adherence to detail and want to dive into deep and technical problems that he is a great asset to any team.",
+            "name": "Deidra Mcmullan"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Taught history and skills while maintaining that time I was met, the constraints of product were from the ground up in the last 12 year, medical with stakeholders, and product knowledge management from this role taught me in designing and implementing an extensive framework for service oriented integration with workflows",
+                "Spoke to regional events in research and conference on topics such as payments, with high traffic in"
+            ],
+            "summary": "Short term engagement, writing javascript / node code. Worked on data transformation and merging algorithms.",
+            "website": "http://vdi-multimedia.com",
+            "company": "Vdi Multimedia",
+            "position": "Journalist (casual), Bbc Minute",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Jquery, chat and access",
+                "Built with a complex shopping cart and mobile application, a / b testing, user experience, designed and user dashboard control"
+            ],
+            "summary": "The biggest challenge was the creation of the information, and testing of functional websites for the use of the global internal intelligence tool (..,. COM an.. the stack: angular theme and with the development for testing business using pair programming and methodology.",
+            "website": "http://estimates.com",
+            "company": "Estimates",
+            "position": "Web Developer / Designer / Master",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Developed and maintained multiple system android applications, including including user friendly interface.",
+                "Developed postfix mail server diagnostics for unix shell scripts with ruby"
+            ],
+            "summary": "Led development of flagship mobile workforce optimization product.",
+            "website": "http://system-inc.com",
+            "company": "System, Inc",
+            "position": "Senior Interactive Art Director",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Philosophy"
+        },
+        {
+            "name": "Social Media"
+        },
+        {
+            "name": "Sports"
+        }
+    ]
+}

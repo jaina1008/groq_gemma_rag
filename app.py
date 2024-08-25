@@ -6,7 +6,8 @@ from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.prompts import ChatPromptTemplate
 from langchain.chains import create_retrieval_chain
 from langchain_community.vectorstores import FAISS
-from langchain_community.document_loaders import PyPDFDirectoryLoader
+from langchain_community.document_loaders import DirectoryLoader, PyPDFDirectoryLoader
+from langchain_community.document_loaders import JSONLoader
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from dotenv import load_dotenv
 
@@ -20,11 +21,12 @@ st.title("Gemma Model Document Q&A")
 
 # Loading Model
 llm= ChatGroq(groq_api_key= groq_api_key,
-              model= "Llama3-8b-8192")
+              model= "llama-3.1-8b-instant")
+            #   model= "Llama3-8b-8192")
 
 prompt= ChatPromptTemplate.from_template(
     """
-    Answer the questions based on the provided context only.
+    Answer the questions based on the provided context only. Whenever possible, show basics name field in each response as a header.
     Please provide the most accurate response based on the question
     <context>
     {context}
@@ -34,17 +36,30 @@ prompt= ChatPromptTemplate.from_template(
 )
 
 def vector_embedding():
-
     if "vectores" not in st.session_state:
-        st.session_state.embeddings= GoogleGenerativeAIEmbeddings(model= "models/embedding-001")
-        # Data Ingestion
-        st.session_state.loader= PyPDFDirectoryLoader("./data")
-        # Loads all documents
-        st.session_state.docs= st.session_state.loader.load()
-        # Splits loaded documents into chunks
-        st.session_state.text_splitter= RecursiveCharacterTextSplitter(chunk_size= 1000, chunk_overlap= 200)
-        st.session_state.final_documents= st.session_state.text_splitter.split_documents(st.session_state.docs)
-        st.session_state.vectors= FAISS.from_documents(st.session_state.final_documents, st.session_state.embeddings)
+        st.session_state.embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
+
+        # Data Ingestion: Use DirectoryLoader to load JSON files
+        st.session_state.loader = DirectoryLoader(
+            "./data",
+            glob="**/*.json",
+            show_progress=True,
+            loader_cls=JSONLoader,
+            loader_kwargs = {'jq_schema': '(.basics | tostring) + " " + (.work[] | tostring) + " " + (.interests[] | tostring)'}
+
+        )
+
+        # Load all documents
+        st.session_state.docs = st.session_state.loader.load()
+
+        # Split loaded documents into chunks
+        st.session_state.text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
+        st.session_state.final_documents = st.session_state.text_splitter.split_documents(st.session_state.docs)
+
+        # Generate vectors from the documents
+        st.session_state.vectors = FAISS.from_documents(st.session_state.final_documents, st.session_state.embeddings)
+
+
 
 
 prompt1 = st.text_input("What do you want to ask from the documents ?")

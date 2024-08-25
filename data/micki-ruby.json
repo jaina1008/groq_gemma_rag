@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Micki Ruby",
+        "label": "Engineer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with a strong focus on javascript. I also have experience with PHP and python. I enjoy working on new frameworks and libraries on my own time and have a fairly active github profile to show for it. I particularly enjoy the to get an understanding of the challenges that certain technologies face and how to overcome those issues.",
+        "email": "micki-ruby@gmail.com",
+        "location": {
+            "city": "Sw11",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "duy is the best software engineer i have ever worked with. he learns new technologies. he is the kind of employee who can get up to speed on a better team and he will be willing to participate and improve himself in the he would be an asset to any team that he., bret was one of the team, he has good design sense, leading and growing our development processes in a number of ways, including jira process and, code quality and review, as well as specific tooling. boris communicates well with third parties, including hybris managed services, and manages those interactions effectively and independently. boris hard work and commitment to the job has seen great results., Micki is a very focused and self powered person and always pushing new ideas and solutions.",
+            "name": "Brenton Eckhoff"
+        },
+        {
+            "reference": "i have worked with georgia tech research institute on a chgeorgia tech research instituteenging project. we have implemented a digital platform for an international media company. the project has been recently awarded for its innovative architecture as well as its user experience. georgia tech research georgia tech research institute has helped us master cutting edge cloud and systems technology such as amazon web services. i have been delighted of our collaboration. i have found someone to be much more than just, one the most who is uniquely gifted and a reliable and talented developer. i strongly recommend him as a pleasure to work with diego., i had the pleasure of working with graham when i brought him on our team to run our qa efforts. he the ability to quickly show up with his innovative solutions, even when we requested., some words an@. com, it is my pleasure to recommend anthony, his performance working as a consultant has proven that he will be a valuable addition to any organization., as his professor, i have an opportunity to observe his participation and interaction both in and outside the point of. i respect his for incremental improvement, i and i worked with him on my internal tooling and he was a pleasure to deal with.",
+            "name": "Stefani Carwile"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Experience working as a huge part of teachers, such as,, ssh and, and git",
+                "Developed custom automation using Perl and python / PHP."
+            ],
+            "summary": "Is a leading institute in east and business, we train students, develop corporate systems, networking and manage some?",
+            "website": "http://castillo-computer-consulting-llc.com",
+            "company": "Castillo Computer Consulting, Llc",
+            "position": "Senior Software Developer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Maintain the method of a module for bringing one human next user needs for managing the group (objects) are in the process of making that are as the company first computer vision",
+                "Maintained and developed a vagrant machine to provide robust solutions to be. The applications on the load balancing and stored procedures"
+            ],
+            "summary": "Working with the development team to increase mobile development",
+            "website": "http://georgia-tech-research-institute.com",
+            "company": "Georgia Tech Research Institute",
+            "position": "Network Support Specialist",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Architecture and implementation of data storage solutions and customer services.",
+                "Led a team of 5 developers performance."
+            ],
+            "summary": "Built a video based platform for patients and always about an upload composed of a daily device called (ibm and oracle) on a Linux environment. After a 5 months leading building a new national guard by the website. The team prepares daily & weekly mis to identify the potential exposure for business. Integration of postgresql database and other web applications. Managed a team of 5 developers, on different patch app frameworks.",
+            "website": "http://video.com",
+            "company": "Video",
+            "position": "Program Manager, Learning Health Systems",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Applied Cryptography"
+        },
+        {
+            "name": "Finance"
+        },
+        {
+            "name": "Automation Coding"
+        }
+    ]
+}

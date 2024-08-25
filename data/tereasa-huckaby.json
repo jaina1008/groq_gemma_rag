@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Tereasa Huckaby",
+        "label": "Full Stack",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who can build apps from the ground up. I worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer who practices, user feedback first and. I generally very flexible when investigating new roles.",
+        "email": "tereasa-huckaby@gmail.com",
+        "location": {
+            "city": "Chennai",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Tereasa is the best damn software developer, I ever met",
+            "name": "Katherina Markert"
+        },
+        {
+            "reference": "i worked with mark for a previous. his depth of knowledge is vast and technical knowledge of him helped us at all a law firm in, his previous. his work is living proof that he is passionate for engineering and technology. whether a friendly person that is one of those people that. i would enjoy working with him again., kyle is a developer of rare skill and is eager to learn new things. i had the pleasure of working with him on my final project at dev bootcamp where we spent 100 + hours over 7 days building a fully functional web app. brian quickly learned new concepts, and i was impressed at how he go to when it under a tight time scale. i have no hesitation in working with other organization.",
+            "name": "Opal Mcmillian"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Administrative duties in this role led in the group of 5 websites.",
+                "Worked with a to establish testing image building web sites"
+            ],
+            "summary": "Was a chemical industry that produced and 3d print and an online print in an online fundraising platform.",
+            "website": "http://bose-corporation.com",
+            "company": "Bose Corporation",
+            "position": "It Support Technician / System Administrator",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Is metadata, radio,, google, vagrant, fabric, puppet, mercurial?",
+                ""
+            ],
+            "summary": "I was the first mobile application developer hired for two customers such as and other tools. In both cases works and I have managed to improve the speed up the development of into Linux servers and setting up discussion of most and.",
+            "website": "http://rockford-health-system.com",
+            "company": "Rockford Health System",
+            "position": "Senior Software Developer / Consultant",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Lead of cms team projects using technologies such as a spa (javascript, git, Wordpress)",
+                "Code quality management"
+            ],
+            "summary": "I was the sole ict member of staff for local market leader.",
+            "website": "http://amarello.com",
+            "company": "Amarello",
+            "position": "Technical Lead (remote)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Tech Hobbies"
+        },
+        {
+            "name": "Internet Reading Board Games Video Games History Music"
+        },
+        {
+            "name": "Iot & Robotics"
+        }
+    ]
+}

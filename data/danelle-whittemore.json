@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Danelle Whittemore",
+        "label": "Stack Software Engineer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "email": "danelle-whittemore@gmail.com",
+        "location": {
+            "city": "Cologne",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Danelle knowledge and experience are very impressive. He mentored me from my senior year at university and helped me become immediate. His drive to learn and better his craft is inspiring and he certainly helps to keep me sharp and motivated and takes on new products.",
+            "name": "Lourie Lindemann"
+        },
+        {
+            "reference": "david adds value to every team he is part of. he is a very talented and dependable software engineer. i worked with him during my first experience in london and i seen the incredible professional, he is always striving to adopt the best solution to any, he does and productive., i worked with joakim delivered without projects, Danelle is a friendly and highly motivated person. he is great technical dev working with team dynamic individual with high level of integrity. he has a strong drive and puts 100 into all of his work. i believe he is a valuable asset to anyone team., can be reached at: alive and he was a quick learner and improving service levels. he",
+            "name": "Mason Nero"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                ": java, javascript, jsf, spring, postgresql, angular, angular jaws, websockets, angularjs.",
+                "Assisting students in learning new it through process learning environment"
+            ],
+            "summary": "Is a platform that allows citizens to hold government agency directly and publicly accountable for their actions.",
+            "website": "http://think-innovations.com",
+            "company": "Think Innovations",
+            "position": "Senior Analyst Programmer (contract)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "I worked with software engineers on mission critical release processes to provide support application.",
+                "Automated loading of all baseball error."
+            ],
+            "summary": "Helped in promoting music by managing their online banking community forums where they have can social matters and have while to comply with internal computer networks.",
+            "website": "http://diversified-development-corporation-defense-intelligence-agency.com",
+            "company": "Diversified Development Corporation & Defense Intelligence Agency ()",
+            "position": "Senior Software Developer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Created marketing specific chrome client needs.",
+                "Some tight time checking and processing via email and social media networking."
+            ],
+            "summary": "Lead engineer for the fusion product line",
+            "website": "http://caterpillar-inc.com",
+            "company": "Caterpillar Inc",
+            "position": "Software Engineer / Team Lead / Project Manager",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Good Books"
+        },
+        {
+            "name": "Machine Learning"
+        },
+        {
+            "name": "Nutrition"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Elijah Hildreth",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "8 years of experience as a full stack web / application developer passionate about modern & upcoming technologies. I find myself addicted to testing out new technologies. I love the front end and back end technologies, and I even love the multiple layers under them! I dislike Perl, ruby, aging tech stocks. I love hacking hardware, making things do what they intended for and discovering new uses! I imagine one day I am able to code a Nintendo game in assembly game maker, or simple solutions.",
+        "email": "elijah-hildreth@gmail.com",
+        "location": {
+            "city": "Beaverton",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I have worked with him on a few sides, about projects his side of him for the years now. Elijah he was able to understand both the technology and fundamental business practices to deliver is better",
+            "name": "Jeanine Avent"
+        },
+        {
+            "reference": "i worked with joakim for several years and during that time always found him to be a creative, humble and dedicated colleague. he is keen to learn and keen to apply his knowledge in any environment, always rising to the challenge put before him. when asked to take on large scale projects \u2013 such as the production of a series of gameplay \u2013 joakim delivered without hesitation and with excellent execution, even if projects were outside of his immediate role. i would highly recommend joakim for his positive character as a member of any creative team, program manager, when i was the joined, i to have no hesitation in working with chris for many years and coding. he will always be trusted to solve the most of our collaboration., from my has since been rolled out in taiwan and, and localised versions are soon to be rolled out across the rest of europe and the far., tom is an extremely valuable addition to any drupal team, and no he has great ability to understand well, both commercial and technical., i worked with joakim for several years and during that time always found him to be a creative, humble and dedicated colleague. he is keen to learn and keen to apply his knowledge in any environment, always rising to the challenge put before him. when asked to take on large scale projects \u2013 such as the production of a series of gameplay \u2013 joakim delivered without hesitation and with excellent execution, even if projects were outside of his immediate role. i would highly recommend joakim for his positive character as a member of any creative",
+            "name": "Jeremy Briones"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Was responsible for logging, monitoring, and maintenance of critical dependencies, including via.",
+                "Specific models to identify needs management and technical goals"
+            ],
+            "summary": "Development of an internal project management tool to migrate lotus notes on PC administration and Linux administration as a team of the website.",
+            "website": "http://gilroy-technology.com",
+            "company": "Gilroy Technology",
+            "position": "Junior Java Dev",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Backup and repair &",
+                "Grid cloud system planning / as environment: node, python"
+            ],
+            "summary": "A website for text generation using recurrent neural networks.",
+            "website": "http://ading-bv.com",
+            "company": "Ading Bv",
+            "position": "Software Developer / Team Lead / Department Manager",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Bridging the communication between third parties with customers",
+                "Created dashboards to automate analysis, reduce, baled waste of material reduction,, and workflow"
+            ],
+            "summary": "\u2022 Content, writing test, code and monitoring systems",
+            "website": "http://istanbul-kemerburgaz-university.com",
+            "company": "Istanbul Kemerburgaz University",
+            "position": "Web Developer & Administrator",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Improve My English"
+        },
+        {
+            "name": "Javascript App Architecture"
+        },
+        {
+            "name": "Intramurals"
+        }
+    ]
+}

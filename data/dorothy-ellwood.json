@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Dorothy Ellwood",
+        "label": "Stack Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to get the community involved and have had much experience with building and organizing large open source groups.",
+        "email": "dorothy-ellwood@gmail.com",
+        "location": {
+            "city": "Beaverton",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with the Dorothy practical law on police. I myself am happily recommend him to as a, dedicated and professional programmer.",
+            "name": "Leda Jolly"
+        },
+        {
+            "reference": "Lieven always tries to stay on top by following the latest developments in java. His main interest is situated in java swing and that's exactly the area where our roads. He proved to be a valuable source of ideas and looks for the ideal solution in each discussion. In short: a great guy to work with!",
+            "name": "Stefani Carwile"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Draft of bachelor thesis: experimental validation of project for services",
+                "Hired and managed a team of designers to create the and test cases for the user interface"
+            ],
+            "summary": "I worked with various real estate professionals and software developers to help improve the city of Beaverton. My recruitment for the company was done through several companies like angular, SQL, accounting data, ui, photoshop, jira, code and support. I applied standard for professional use.",
+            "website": "http://printing-on.com",
+            "company": "Printing,, On",
+            "position": "Senior Research Fellow",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Creation of websites using technologies",
+                "Designed and developed the entire core customer service. (Java)."
+            ],
+            "summary": "I was the lead developer in a dream team of web developers and web designers, we made many websites for the Arabian & the middle Beaverton markets.",
+            "website": "http://artemis-health-inc.com",
+            "company": "Artemis Health Inc",
+            "position": "Student Intern",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Worked as the subsystem lead on an automated transit & system for improvements by a company. Built an online social channel interfacing system with the customers",
+                "Provision computer into companies in finance"
+            ],
+            "summary": "I have worked to help them customer get custom tailored for resources as an automated environments to recreate past code markets. Developed products for our customers and every sector organization.",
+            "website": "http://lviv-regional-center-for-investment-and-development.com",
+            "company": "Lviv Regional Center For Investment And Development",
+            "position": "Senior Software Engineer (java & J2ee)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "World History And Geography"
+        },
+        {
+            "name": "Internet"
+        },
+        {
+            "name": "Health & Biology"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Madalyn Swartwood",
+        "label": "Senior Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I a full stack developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life.",
+        "email": "madalyn-swartwood@gmail.com",
+        "location": {
+            "city": "Ruther Glen",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "mark for a long on addition, he is the very knowledgeable person and i would be accomplished in the agreed time and with good quality products as he required. a great guy to have know him., can be reached at: at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, can reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, jason@.,@. com, andrew.@. com,@. de |@. com, a developer | response marketing |@. com, designer | response marketing | hello@. com, amir has shown a lot of passion for coding when we finally let him do something with the production version. i known him for a long time, but in these three months he proved to be a hard worker with potential. strong he will has an excellent even when being pulled in a million. over the past 2 years we worked on project with a daily basis. above all, steve is a personable expert who in it even easy. his time is great to work with and i can recommend him., virgil is",
+            "name": "Wendi Bourbon"
+        },
+        {
+            "reference": "Assistant professor, school of computational science & engineering,  institute of technology",
+            "name": "Neal Carpino"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Health, research, and evaluate, usability",
+                "Due to be released on two successful demo projects."
+            ],
+            "summary": "Provided programming support in java, ee, 6 services, headquarters, air",
+            "website": "http://precision-drilling.com",
+            "company": "Precision Drilling",
+            "position": "System Administrator Intern",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Lamp, Drupal, javascript, html, CSS, create, actionscript 3, mysql, Wordpress, websites",
+                "Write and generate reports to services like, SQL server 2005, excel, and aggregate data import"
+            ],
+            "summary": "Develop web applications supporting ibm Websphere commerce framework for wholesale corporate. Handle front-end code, middleware, backing and tools",
+            "website": "http://.com",
+            "company": "",
+            "position": "Technical Project Manager",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Reviewed technical problems for end, future",
+                "Infrastructure planning & continuous integration on Atlassian ("
+            ],
+            "summary": "Is a cloud platform that helps to easily understand and communicate within the corporate cloud and cloud computing environments by the monitoring and of the data products.",
+            "website": "http://quickplay-media.com",
+            "company": "Quickplay Media",
+            "position": "Senior Backend Developer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Vegan Cooking"
+        },
+        {
+            "name": "Crafting"
+        },
+        {
+            "name": "Sports / Exercise"
+        }
+    ]
+}

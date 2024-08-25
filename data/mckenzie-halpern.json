@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Mckenzie Halpern",
+        "label": "",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to get the community involved and have had much experience with building and organizing large open source groups.",
+        "email": "mckenzie-halpern@gmail.com",
+        "location": {
+            "city": "Tallinn",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": ". e.@. COM",
+            "name": "Noreen Scheurer"
+        },
+        {
+            "reference": "@. Com",
+            "name": "Khalilah Littleton"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Gained knowledge about managing, the responsive design / ux",
+                "Reports using given analytics. Are."
+            ],
+            "summary": "Working on the development team and backend related to integrations, and providing guidance to support systems like systems architecture and development, staging environments, and virtual servers and desktop infrastructure.",
+            "website": "http://customer-io.com",
+            "company": "Customer Io",
+            "position": "Software Engineer Intern",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Managing debian servers",
+                "Developed corporate identities for.."
+            ],
+            "summary": "My main duties were to provide guidance to end users on the use of the services provided by the operator, also if it was necessary I had to generate network issue tickets and provide the maximum possible of for an effective solution of the problem",
+            "website": "http://infotech.com",
+            "company": "Infotech",
+            "position": "Jr Software Analyst",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "\u2022 Worked closely with product managers and software engineers to provide solutions, technical documents or companies.",
+                "Developed and streamlined a process training for our platform"
+            ],
+            "summary": "As a part of my own initiative I created the system for the dance school from scratch to complete 8 / full projects. Working full with digital project managers like, etc.",
+            "website": "http://gamesys.com",
+            "company": "Gamesys",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Keeping Fit And Healthy"
+        },
+        {
+            "name": "Ai And Machine Learning"
+        },
+        {
+            "name": "Cubes"
+        }
+    ]
+}

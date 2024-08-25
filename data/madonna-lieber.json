@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Madonna Lieber",
+        "label": "",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stack software developer with a passion for solving problems most of the time using technology. I am versatile, inquisitive and enjoy building cool products and learning new technologies. I work well in a team.",
+        "email": "madonna-lieber@gmail.com",
+        "location": {
+            "city": "Lyon",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Thibaud is a leader and he knows how to drive his team throughout the project.",
+            "name": "Felice Villasenor"
+        },
+        {
+            "reference": "As a ted, author and the first legally deaf player in the, economics, philosophy and art. He knows several programming languages, but what differentiates from him others are. His excellent communication skills, both written and, are excellent. I sure, that he will be a valuable asset to any team.",
+            "name": "Madonna Lieber"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Tech support",
+                "Responsible for scheduling of all projects the infrastructure to deliver new features across our platform"
+            ],
+            "summary": "iit kanpur is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://iit-kanpur.com",
+            "company": "Iit Kanpur",
+            "position": "Assistant Systems Engineer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Working in html5 as an angular spa to prototype the app with legacy home lighting",
+                "Built automated etl tool for pipelines strengthened mine in production."
+            ],
+            "summary": "\u2022 Designed & developed fault tolerant and maintainable web and windows app.",
+            "website": "http://com.com",
+            "company": "Com",
+            "position": "Senior Front End Developer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Electronic document management system workflow regularly written in remote and design to install, update communicate results with a platform for asset tracking, created functionality and high output.",
+                "Set up a range of network management tool to minimize project requirements, integrating inside their client that the final year 1. 000 active users"
+            ],
+            "summary": "Is a pioneer in the Lyon for providing offshore support. They provide a mix open and manage its application for other companies that provide better information and technology to provide communication based on their product",
+            "website": "http://actelligent-group.com",
+            "company": "Actelligent Group",
+            "position": "Premier Field Engineer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Boxing"
+        },
+        {
+            "name": "Outdoor Adventure"
+        },
+        {
+            "name": "System Programming"
+        }
+    ]
+}

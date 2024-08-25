@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Mason Nero",
+        "label": "Full Ruby Web Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who can build apps from the ground up. I have worked at Intuit since graduation for the past 11 years. Being from intuit, customer empathy and product focus are ingrained into my approach to building software. I generally very flexible when investigating new roles.",
+        "email": "mason-nero@gmail.com",
+        "location": {
+            "city": "Ravenna",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with us at Adam. When he is a hard working and bright engineer to work with. He is a great person to work with and is a great guy with a sense of humor. He is definitely a very nice, professional to work with!",
+            "name": "Foster Lagrone"
+        },
+        {
+            "reference": "david is a unique it professional in that he is fluent both on the web / development side as well as the networking side! Mason achieved 8 different microsoft and comptia certifications while attending new horizons and passed over 20 + exams all on the first try! most near perfect!! that is very rare. his ability to deliver ingenious solution to complex problems, in extremely proactive and design,) who is also a very nice to person in the team. i would recommend rupert to any company., it rare that you come across standout talent like pedro. i had the pleasure of working with him on my final project at dev bootcamp where we spent 100 + hours over 7 days building a fully functional web app. brian quickly learned new concepts, and i was impressed at how he go out of his way to solve the complexities we encountered with the project. his knowledge of service now is very solid. he is truly a service now expert. i would have no hesitation in working with him in it my team again in the front and least of his. an overall high level engineer, i was impressed the by both breadth and of his knowledge as an developer. i am confident professional with that, brett is very good professional and friendly. highly recommended!",
+            "name": "Janella Laferriere"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Facilitate engineering practices on technology choices, creating documentation",
+                "Learned how to a ruby developers on rails architecture. Using node. J's, rails, angular 2. (2. 0, & angular. j's)"
+            ],
+            "summary": "",
+            "website": "http://sports.com",
+            "company": "Sports",
+            "position": "Senior Test Engineer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Had all the backend issues and teams that moved from traditional more for more than 10 minutes.",
+                "Rework the entire currently (an app from exchange server, and it was a kiosk angular in the app that supported the customers. Was part in making it easy and implementation of projects"
+            ],
+            "summary": "Developed a tool that automated the whole process of inserting new content, saving 10s of thousand euros per year.",
+            "website": "http://bc-hydro.com",
+            "company": "Bc Hydro",
+            "position": "Section Manager",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Provided support over the user group are as the of retail next and university of systems, and developing a Microsoft systems software.",
+                ""
+            ],
+            "summary": "I was given the chance to do an internship program over where I work on the card online platform.",
+            "website": "http://costa-rica.com",
+            "company": ", Costa Rica",
+            "position": "Software Developer, Contractor",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Boxing"
+        },
+        {
+            "name": "Carhacking"
+        },
+        {
+            "name": "Crypto Currency"
+        }
+    ]
+}

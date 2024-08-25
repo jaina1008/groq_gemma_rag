@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Lavenia Lookabaugh",
+        "label": "Stack Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stack developer based in the, Kansas area. I have 16 years experience in web development and graphic design, and focus on creating scalable and sustainable web applications with an amazing a / ux.",
+        "email": "lavenia-lookabaugh@gmail.com",
+        "location": {
+            "city": "Gentbrugge",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with andrea as a colleague and fellow team member to provide software solutions and innovations to product line. andrea has demonstrated a dedication to performing the highest quality of work. he has the foresight to recognize when to rewrite and / or reorganize existing software and to implement improvements that are beneficial in the long term when doing so he is not necessarily an immediate goal. he always looks at hand meant that during the production phase, multiple departments knew they could rely on his expertise and in that, even when being pulled in a million. over the past 2 years we worked on project, i spent at least an hour every week with him to follow my projects and find ways to deal with complex problems like. he found time to teach me more about php and routing when i was struggling to understand parts of our technological stack and to listen to me when i had a different opinion about the best way to develop a solution.",
+            "name": "Shelton Herwig"
+        },
+        {
+            "reference": "anthon open source community anthon open source community anthon open source community",
+            "name": "Lydia Chee"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Wrote samba management tools on ibm to create selenium web based services.",
+                "Rotation: 1 click management. This setup is a tool that used to dynamic banners and web (proxy) system and client content for applications in order to create a dynamic user interface or queries stored procedures in xml to automate processes."
+            ],
+            "summary": "nezasa ag is a company whose focus is on delivering top notch web and mobile applications to our clients and are converted and legacy programming.",
+            "website": "http://nezasa-ag.com",
+            "company": "Nezasa Ag",
+            "position": "Software Engineer And Requirement Lead (external Consultant)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Wrote standardized terraform modules",
+                "Part of a team of 5 developers splits between different countries"
+            ],
+            "summary": "I was the sole ict member of staff for local market leader. I had to plan, develop and deliver a custom solution for many customers.",
+            "website": "http://anthon-open-source-community.com",
+            "company": "Anthon Open Source Community",
+            "position": "Mobile Solutions Consultant",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Networks. Net survey",
+                "Lead professional tutoring services for team members."
+            ],
+            "summary": "I was the manager of the application developers and also built a cloud a generic framework to angular. J's and the back end development, but also required the skills of developers on their production team. Helped developers with many backed projects, including mobile product.",
+            "website": "http://great-river-regional-library.com",
+            "company": "Great River Regional Library",
+            "position": "Software Developer / Consultant",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Electronic"
+        },
+        {
+            "name": "Gadgets & Technologies"
+        },
+        {
+            "name": "Alpine Skiing"
+        }
+    ]
+}

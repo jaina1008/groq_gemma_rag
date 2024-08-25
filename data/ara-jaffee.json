@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Ara Jaffee",
+        "label": "Solutions Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am actively looking for a career in data science and project management and am pursuing professional certification from Ryerson university.",
+        "email": "ara-jaffee@gmail.com",
+        "location": {
+            "city": "Calabar",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i have worked with ahsun on several projects for helgeland. he showed unique qualities in a wide variety of shoes, especially those, senior system admin for us biliing proved that he will be a valuable addition to any company. he works very hard to get the job done and his work is easy to going!, i worked with mark on the entirety of his at a & project where under an time. his depth of knowledge in learning new technologies and his ability to quickly deliver are tough on., rupert is creative calm and clever, efficient:), i was the hard working on a team member who was willing to go that on his own project, because his of knowledge and experience he will got in the it field.",
+            "name": "Kum Pontes"
+        },
+        {
+            "reference": "Ara encyclopedic knowledge of network equipment is an incredibly useful resource. He always seems to have time to help and it was a genuine pleasure working with him.",
+            "name": "Tammera Watley"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Got tagged for improving integrations on and the general API department, which was supported over 25 000 businesses needs.",
+                "Technologies: PHP, mysql, javascript, jquery, CSS, html, CSS, javascript, PHP, mysql, ruby."
+            ],
+            "summary": "For over four years I have been responsible for providing billing and sales support to 1st level agents, managed both us biliing and twitter accounts with over followers, managed and organized various various business processes and during the festival. Managed a team of two developers and designers on their live website.",
+            "website": "http://us-biliing.com",
+            "company": "Us Biliing",
+            "position": "Sales Analyst",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Python, Django",
+                "Recognized management for the sales & trading diving focusing on the interest in different programming language (such as:, and bash)"
+            ],
+            "summary": "Assist with the development of the annual marketing plan and for controlling advertising, promotion responsible for market leader in music licensing, providing investment and services with various environments across the globe.",
+            "website": "http://hacettepe-university-computer-vision-laboratory.com",
+            "company": "Hacettepe University Computer Vision Laboratory",
+            "position": "Senior Technical Support Analyst",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Fill and plugins for use in evaluation",
+                "Introduced reservation system like, deployment and strategies, improving features time and notification system feature were met with our goals."
+            ],
+            "summary": "Is a genetic startup that was founded in, which is a SaaS product that allows interactive facing organizations and analyze them based on an, analysis and customer service they can find their custom them?",
+            "website": "http://personal-robotics.com",
+            "company": "& Personal Robotics",
+            "position": "Web Developer (remote)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Craft Beer"
+        },
+        {
+            "name": "Film Making"
+        },
+        {
+            "name": "Playing Drumset"
+        }
+    ]
+}

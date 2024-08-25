@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Jeannetta Masuda",
+        "label": "Software Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "email": "jeannetta-masuda@gmail.com",
+        "location": {
+            "city": "Wroc\u0142aw",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Jeannetta is very well rounded, able to complete any project that he went permanent at another company and I could continue to employ him.",
+            "name": "Joel Revard"
+        },
+        {
+            "reference": "actualmente se encuentra estudiando en noruega lo que demuestra que tiene una r\u00e1pida adaptaci\u00f3n al.",
+            "name": "Noreen Scheurer"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Developed many interactive infopath forms, form using Sharepoint",
+                "Planned and performed the server upgrades on all tile related machines"
+            ],
+            "summary": "Joined the company in its early days when our solutions ranged from helping foundations reach their targets, tracking relief efforts in and even powering a data driven show. Data science was not only that the system had to be sited with around the application and the could see all the user in their daily payment options.",
+            "website": "http://mindful-meerkats.com",
+            "company": "Mindful Meerkats",
+            "position": "It Operations Manager",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Engineer lead to and use of this application a video game",
+                "Html email, photoshop, and xslt."
+            ],
+            "summary": "Worked on up tv project: firmware, backing and development of projects of all of our servers and infrastructure maintenance services.",
+            "website": "http://extreme-internet.com",
+            "company": "Extreme Internet",
+            "position": "Solutions Architect Consultant Ii",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Maintenance and supported the enterprise software development of new frameworks.",
+                "Opened shift for the office"
+            ],
+            "summary": "Is a company that produce and deliver multimedia and digital content across different clients, focusing on providing b2b training, and retail.",
+            "website": "http://u-necolt.com",
+            "company": "U Necolt",
+            "position": "Senior Software Engineer / Software Architect",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Tibetan Buddhism"
+        },
+        {
+            "name": "Computer Vision"
+        },
+        {
+            "name": "Yoga Jigsaw"
+        }
+    ]
+}

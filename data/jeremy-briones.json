@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Jeremy Briones",
+        "label": "And University",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a passionate software developer focusing mostly on android. I spent the last few years living in the twin, but have recently moved back to Oklahoma.",
+        "email": "jeremy-briones@gmail.com",
+        "location": {
+            "city": "Fenton",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i known carl since he was arguably the brightest student in Jeremy university journalism program. since then he has gone on to be the in house innovator everywhere he has been. carl not only understands where digital journalism needs to be, he is also thinking about where it needs to a go next and how he can help get the it there world. whenever we have a problem with our website, i always rely on him on Jeremy own, correctly and, very to our entire satisfaction., it is my pleasure to recommend, Jeremy performance working as a social media consultant for transh4ck proved that he will be a valuable addition to any company.,.. wang@. com, dave is hands down brilliant. Jeremy perspective has been without equal and i could always depend on him to meet challenging deadlines without compromising quality., rhisiart is one of the most knowledgeable and competent developers i have worked with in a tester and test manager. he is extremely conscientious and always takes the time to fully understand the requirements of the product on which was working as. he a great teamplayer and a pleasant person to work with., lieven always tries to stay on top by following latest developments in java. Jeremy main interest is situated in java swing and that exactly the area where our roads. he proved to be a valuable source of ideas and looks at the it industry. the, i would trust deba with my most critical application development projects. he a can always shown to be a positive strong and great mind! every problem you may throw at him",
+            "name": "Maryam Telford"
+        },
+        {
+            "reference": "The first time I talked to Jeremy on thee, he will have the work completed on an MBA and experience. Jeremy can handle any, even the most solution was in the quality of software development. That he will be a valuable addition to any company.",
+            "name": "Sacha Jay"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Design, a cluster computing Cisco configuration, installation and embedded system device drivers for the system of hardware.",
+                "Customer service: interact with for customer management and production servers"
+            ],
+            "summary": "The main part of the job has consisted of designing, implementing and maintaining company orange based, and windows mobile infrastructure. Duties included event processing, system administration, documentation, complex marketing, network management, and support of group software solutions. Development department was working with the main task of the clients.",
+            "website": "http://sun.com",
+            "company": "Sun / /",
+            "position": "Web Developer & Designer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Client side design and development and administration of an active directory, group analysis move, and create application.",
+                "Developed software separation for files as of the companies and progress."
+            ],
+            "summary": "I have created three single page application, using PHP and angular. I have used codeigniter 2, larval 4. 2 and 2 + incorporated their son.",
+            "website": "http://college.com",
+            "company": "College",
+            "position": "Senior Software Engineer / Rails Architect",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Spring security",
+                "Managing all debian packages based, install and setup docker for all machines in VMware."
+            ],
+            "summary": "A web development company that time between adding features to the web applications that are working on cross platform (hybrid mobile applications on platforms such as Android, java, web,.",
+            "website": "http://.com",
+            "company": "",
+            "position": "Tech Lead (founding Engineer)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Cello"
+        },
+        {
+            "name": "Intellectual Technologies"
+        },
+        {
+            "name": "Computer Engineering"
+        }
+    ]
+}

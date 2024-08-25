@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Ja Charlton",
+        "label": "Software And And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a technology enthusiast with experience in many areas of software and web development. I have a deep understanding and interest in technology, open standards, op and other programming paradigms. I a fast learner and enjoy exploring new languages, tools, and frameworks.",
+        "email": "ja-charlton@gmail.com",
+        "location": {
+            "city": "Vila Do Conde",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with the Ja practical law on police. I myself am happily recommend him to as a, dedicated and professional programmer.",
+            "name": "Valrie Geesey"
+        },
+        {
+            "reference": "jace is one of the most personable and professional manager at monster. he has an excellent rapport with people of all. he is an expert in whatever he does and always goes over and beyond. Ja is a definite asset to the business, and never drags his heels or. his delivery is efficient and reliable and he is an absolutely charming chap and it has been a pleasure to work with him., cto at citia, lead frontend engineer at citia, ios developer, consultant for., david is detail oriented and puts in making them. he always makes the projects to come up with solutions good. this is a definite asset to the business, and all around great guy. i would highly recommend aidan to work with diego is.",
+            "name": "Lawanna Aguon"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Led presentations to assess optimal talent in workflow critical in the content according to the user",
+                "Network (bgp, Cisco, ospf, &)"
+            ],
+            "summary": "Maintained and integrated multiple software for hardware and software.",
+            "website": "http://march-of-dimes.com",
+            "company": "March Of Dimes",
+            "position": "Branch Manager",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Windows 2003 and database job management",
+                "Server side programming features"
+            ],
+            "summary": "Is a social network for high school that medical aid in the world through a life / insurance number of industries.",
+            "website": "http://estonian-information-systems-authority.com",
+            "company": "Estonian Information Systems Authority",
+            "position": "Lead Software Design Engineer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Created strategies to develop an electronic management module. This included doing affiliate marketing tools, coding and standards",
+                "Built a middleware that to let a client a form which much to the look of orders."
+            ],
+            "summary": "Is an enterprise marketplace.",
+            "website": "http://.com",
+            "company": "",
+            "position": "Software Engineer / Team Lead / Project Manager",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Cinema And Photography"
+        },
+        {
+            "name": "Activism"
+        },
+        {
+            "name": "Outreach Stem Programmes"
+        }
+    ]
+}

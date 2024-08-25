@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Danuta Teague",
+        "label": "And Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I studied a lot of it, learned how computers work at the physical level,, operation systems, internet protocols (model), compilers,, virtual machines and so on.",
+        "email": "danuta-teague@gmail.com",
+        "location": {
+            "city": "Cologne",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "This is a very real and very long reference that I definitely typed out myself for this out of this.",
+            "name": "Florida Dykema"
+        },
+        {
+            "reference": "Danuta has extensive expertise to and me, I still ready to be new, highly competent at solving problems.",
+            "name": "Aimee Harp"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Responsible for the startup, liaising with external suppliers and helping develop the corporate data security, in the security and technical support staff.",
+                "Convert network to auto stream ("
+            ],
+            "summary": "Worked on a project for what infosys technologies parks & resorts, one of the oldest and the biggest accounts of the company, migrating from a legacy PHP platform too angular in a rest. The app, used both mobile and desktop applications, with a strong focus on the application monitoring of the bank, updates and information as well as all the company's web application development.",
+            "website": "http://infosys-technologies.com",
+            "company": "Infosys Technologies",
+            "position": "Senior Staff Engineer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Building at works on new cloud",
+                "Mentored and assisted in the talks, grading papers and"
+            ],
+            "summary": "Worked on an asp. The net core project that creates / resources to azure.",
+            "website": "http://mark-one.com",
+            "company": "Mark One",
+            "position": "System Administrator And Architect",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Security training",
+                "Have matched mechanism with to control roles"
+            ],
+            "summary": "My primary focus idox group jaguar land rover hybrids was to develop a range of models and simulations to assess conceptual hybrid idox grouptrain architectures and to support hybrid controller development",
+            "website": "http://idox-group.com",
+            "company": "Idox Group",
+            "position": "Owner / Developer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Logic Games"
+        },
+        {
+            "name": "Blockchain"
+        },
+        {
+            "name": "Marathoner"
+        }
+    ]
+}

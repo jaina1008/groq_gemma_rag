@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Charis Covelli",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a second year computer science student at the pozna\u0144 university of technology, looking for an opportunity of introduction to the job market as a programmer. I fast thinker and problem solver, I also very determined to become as good as possible in programing.",
+        "email": "charis-covelli@gmail.com",
+        "location": {
+            "city": "Croydon",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "",
+            "name": "Devin Ertle"
+        },
+        {
+            "reference": "",
+            "name": "Claudie Medders"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Went fully with remote and team for their local ranging age levels",
+                "Core developer of the system (internal applications) used government it form an application in real estate to support bare metal)."
+            ],
+            "summary": "Is a technology school, teaching web and software development skills to career and ongoing learner students to come to life. Development of web applications using, and at the time. Most of them were made in PHP and query for another colleague core credicard, python, go, and more. I was also introduced code to plan routes for drivers and assign an order to the driver with nearest location.",
+            "website": "http://estonian-information-systems-authority.com",
+            "company": "Estonian Information Systems Authority",
+            "position": "Senior Programmer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Conducted GIs and technical display of the entire it department by over half to six months",
+                "Managed a team of 3 developers, including driving the implementation of technologies and java development frameworks."
+            ],
+            "summary": "Developments based on the microchip and daniel jonsson produktionscale.",
+            "website": "http://daniel-jonsson-produktion.com",
+            "company": "Daniel Jonsson Produktion",
+            "position": "Senior Production Specialist",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Certification of chef",
+                "Successfully led the six developers in departments where the risk assessment changes we were created during my time."
+            ],
+            "summary": "Developed a plugin to interface between the network and serial protocols of a medical monitoring device and the decision support software.",
+            "website": "http://openscg.com",
+            "company": "Openscg",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Red Wine"
+        },
+        {
+            "name": "Arts Culture And Technology"
+        },
+        {
+            "name": "Technology"
+        }
+    ]
+}

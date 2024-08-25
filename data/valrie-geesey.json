@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Valrie Geesey",
+        "label": "In",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who can build sites from the ground up. I worked mostly on freelance work and personal projects. I thrive on collaboration and creativity. I love learning new skills.",
+        "email": "valrie-geesey@gmail.com",
+        "location": {
+            "city": "Sabanagrande",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Valrie really helped us out on a number of occasions by being available at odd hours, including, I think, at midnight on one very stressful) and we really enjoyed having his friendly face of the team. Good luck Valrie hope we can catch on up very, friendly and knowledgeable. We truly appreciate additions to our company.",
+            "name": "Breann Gary"
+        },
+        {
+            "reference": ".@. COM, +",
+            "name": "Alaina Bogdan"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Custom affiliate control panel written program with python and sqlite",
+                "Write reports quality assurance for auto testing (Europe, what)."
+            ],
+            "summary": "\u2022 / Deployed on desktop in PHP / mysql, codeigniter or raw PHP development, data mining, and project.",
+            "website": "http://sucucho.com",
+            "company": "Sucucho",
+            "position": "Manager",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Engineering management",
+                "Produced the first technology stack for the website"
+            ],
+            "summary": "Responsible for maintaining and installing computer systems, payroll processing, financial data, and assisting with product development teams.",
+            "website": "http://babbee-on-board.com",
+            "company": "Babbee On Board",
+            "position": "Student Assistant, Usability And User Experience",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Responsible to create a technical post workflow",
+                "Consuming Sharepoint social media (), loss (css3, visual and javascript)."
+            ],
+            "summary": ". I was learning stuff while waiting for the project assignment.",
+            "website": "http://aegis-software.com",
+            "company": "Aegis Software",
+            "position": "Intern Web Developer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Currently Learning"
+        },
+        {
+            "name": "Experimentalmusic"
+        },
+        {
+            "name": "Machine Learning"
+        }
+    ]
+}
