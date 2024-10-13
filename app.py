@@ -11,6 +11,7 @@ from langchain_community.document_loaders import JSONLoader
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from dotenv import load_dotenv
 
+# Load environment variables
 load_dotenv()
 
 # Loading GROQ and Google API key
@@ -36,7 +37,7 @@ prompt= ChatPromptTemplate.from_template(
 )
 
 def vector_embedding():
-    if "vectores" not in st.session_state:
+    if "vectors" not in st.session_state:
         st.session_state.embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
 
         # Data Ingestion: Use DirectoryLoader to load JSON files
@@ -53,7 +54,7 @@ def vector_embedding():
         st.session_state.docs = st.session_state.loader.load()
 
         # Split loaded documents into chunks
-        st.session_state.text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
+        st.session_state.text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
         st.session_state.final_documents = st.session_state.text_splitter.split_documents(st.session_state.docs)
 
         # Generate vectors from the documents
@@ -79,7 +80,7 @@ if prompt1:
     response= retrieval_chain.invoke({'input': prompt1})
     st.write(response['answer'])
 
-    with st.expander('Document Similarity Search'):
-        for i, doc in enumerate(response['context']):
-            st.write(doc.page_content)
-            st.write("---------------------------")
+    # with st.expander('Document Similarity Search'):
+    #     for i, doc in enumerate(response['context']):
+    #         st.write(doc.page_content)
+    #         st.write("---------------------------")
